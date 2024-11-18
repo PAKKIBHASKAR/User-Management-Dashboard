@@ -26,13 +26,13 @@ Enhanced UI: Further refining the UI with more advanced styling and possibly inc
 
 ## Setup and Run Instructions
 
-1. **Clone the repository:**                                                                       ```sh
+1. **Clone the repository:**                                                                                                                                            ```sh
    git clone https://github.com/your-username/your-repository-name.git
    cd your-repository-name                                                                          
-2. **Install Dependencies:**                                                                        npm install                                                                                           
-3. **Start the development server:**                                                                npm start
+3. **Install Dependencies:**                                                                        npm install                                                                                           
+4. **Start the development server:**                                                                npm start
 
-4. **Open your browser and navigate to:**
+5. **Open your browser and navigate to:**
     http://localhost:3000
 
 
