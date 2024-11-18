@@ -49,8 +49,6 @@ Follow these steps to run the project locally:
    ```sh
    http://localhost:3000
 
-   
-
 ## Challenges Faced
 1) State Management: Ensuring that the form fields were properly managed and reset after adding a new user.
 2) API Interaction: Handling asynchronous API requests and managing the mock responses from JSONPlaceholder.
