@@ -49,11 +49,11 @@ Follow these steps to run the project locally:
    
 
 ## Challenges Faced
-State Management: Ensuring that the form fields were properly managed and reset after adding a new user.
-API Interaction: Handling asynchronous API requests and managing the mock responses from JSONPlaceholder.
-CSS Styling: Aligning the buttons and ensuring a responsive and clean UI layout.
+1) State Management: Ensuring that the form fields were properly managed and reset after adding a new user.
+2) API Interaction: Handling asynchronous API requests and managing the mock responses from JSONPlaceholder.
+3) CSS Styling: Aligning the buttons and ensuring a responsive and clean UI layout.
 
 ## Improvements for the Future
-Pagination: Implementing pagination or infinite scrolling for better user experience when dealing with a large number of users.
-Validation: Adding client-side validation to improve data integrity before submitting the form.
-Enhanced UI: Further refining the UI with more advanced styling and possibly incorporating a UI framework like Bootstrap or Material-UI.
+1) Pagination: Implementing pagination or infinite scrolling for better user experience when dealing with a large number of users.
+2) Validation: Adding client-side validation to improve data integrity before submitting the form.
+3) Enhanced UI: Further refining the UI with more advanced styling and possibly incorporating a UI framework like Bootstrap or Material-UI.
