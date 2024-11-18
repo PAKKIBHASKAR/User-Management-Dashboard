@@ -38,12 +38,13 @@ Follow these steps to run the project locally:
    cd your-repository-name
 
 2. Install Dependencies:
+   ```sh
    npm install
    
-3. Start the development server:
+4. Start the development server:
     npm start
    
-4. Open your browser and navigate to:
+5. Open your browser and navigate to:
    http://localhost:3000
 
    
