@@ -1,0 +1,64 @@
+.user-item {
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr 3fr 2fr 2fr;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .user-info {
+    display: contents;
+  }
+  
+  .user-info span {
+    padding: 0 10px;
+  }
+  
+  .user-actions {
+    display: flex;
+    justify-content: flex-start;
+  }
+  
+  .user-actions button {
+    margin-right: 5px;
+  }
+  
+  .edit-button {
+    background-color: #28a745; /* Green color */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .edit-button:hover {
+    background-color: #218838;
+  }
+  
+  .delete-button {
+    background-color: #dc3545; /* Red color */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .delete-button:hover {
+    background-color: #c82333;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
