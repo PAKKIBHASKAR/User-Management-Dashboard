@@ -42,9 +42,11 @@ Follow these steps to run the project locally:
    npm install
    
 4. Start the development server:
+    ```sh
     npm start
    
-5. Open your browser and navigate to:
+6. Open your browser and navigate to:
+   ```sh
    http://localhost:3000
 
    
